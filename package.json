@@ -1,0 +1,15 @@
+{
+  "name": "nodearquivo",
+  "version": "1.0.0",
+  "description": "CLI",
+  "preferGlobal": true,
+  "bin": {
+    "nodearquivo": "./bin/nodearquivo"
+  },
+  "files": [
+    "./bin"
+  ],
+  "keywords": [],
+  "author": "William Soares de Lima",
+  "license": "WIL"
+}
